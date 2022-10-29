@@ -1,0 +1,108 @@
+.main-page {
+   background-color: black;
+   width: 100%;
+   height: 100%;
+}
+.main-page img{
+   margin-left: -120px;
+   width: 133%;
+   height: 100%;
+}
+
+.main-page .logo img {
+  
+   width: 43px;
+   height: 48%;
+   margin-left: 103px;
+   margin-top: 39px;
+ }
+
+ .main-page .logo h1{
+   color: white;
+   margin-left: 103px;
+   font-size: 70px;
+   margin-top: 60px;
+   font-weight: bold;
+   letter-spacing: -1.2px
+ }
+
+ .main-page .logo h3{
+   color: white;
+   margin-left: 103px;
+   font-size: 40px;
+   margin-top: 57px;
+   font-weight: bold;
+   letter-spacing: -1.2px
+ }
+ 
+.main-page .buttons h6{
+   background-color: white;
+   color: black;
+   text-align: center;
+   font-size: 16px;
+   border-radius: 45px;
+   flex-direction: column;
+   padding: 9px;
+   margin: 18px;
+   width: 289px;
+   margin-left: 115px;
+   margin-top: 23px;
+}
+.main-page .buttons img{
+   width: 24px;
+   margin:0px;
+}
+.main-page .buttons a{
+   text-decoration: none;
+   
+}
+.main-page .blue h6{
+   
+   text-decoration: none;
+   border-radius: 45px;
+   background-color: #1d9bf0;
+   color: white;
+   flex-direction: column;
+   width: 289px;
+   margin-left: 114px;
+   height: 37px;
+   text-align: center;
+   padding: 7px;
+}
+.main-page .blue a{
+   text-decoration: none;
+}
+.main-page .or p {
+   color: white;
+   margin-left: 245px;
+   font-weight: lighter;
+   line-height: 0.1em;
+}
+
+.main-page .terms-service p{
+   color:rgb(113, 118, 123);
+   font-size: 11px;
+   width: 300px;
+   margin-left: 115px;
+}
+.main-page .terms-service a{
+   text-decoration: none;
+}
+
+.main-page .terms-service h5 {
+   margin-left: 115px;
+   color: white;
+   margin-top: 60px;
+}
+.main-page .sign-in-button{
+   border-color:white;
+   border-style: solid;
+   color:#1d9bf0;
+   text-align: center;
+   border-radius: 45px;
+   padding: 5px;
+   width: 289px;
+   margin-left: 106px;
+   margin-top: 23px;
+   border-width: thin;
+}
